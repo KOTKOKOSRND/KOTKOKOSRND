@@ -1,3 +1,7 @@
+# Опыт:
+1) Активно принимаю участие в спортивном программировании:
+ссылка на codeforces
+
 # Мои сертификаты:
 
 1) kaggle.com/learn/certification/rndboris/intro-to-programming
