@@ -6,6 +6,7 @@ https://codeforces.com/profile/RobinBobinRnd
 
 1) [kaggle.com/learn/certification/rndboris/intro-to-programming](https://user-images.githubusercontent.com/55090151/253735510-07cd3fcc-1af4-48a1-880a-2bf2c2e9adfd.png)
 ![image](https://github.com/SENATOROVAI/KOTKOKOSRND/assets/55090151/07cd3fcc-1af4-48a1-880a-2bf2c2e9adfd)
+<div class="tenor-gif-embed" data-postid="13293289" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/typing-work-working-hard-hard-work-working-gif-13293289">Typing Work GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
